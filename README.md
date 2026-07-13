@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- 注意：本地预览时可能因网络原因无法加载此 GIF，上传至 GitHub 后其自带的服务器会帮您加速并正常显示 -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%" alt="[顶部动态图加载失败，上传至 GitHub 后可正常显示]" />
+
 
 # 💫 Hello, World! I'm cmontage
 
@@ -29,34 +28,13 @@
   </a>
 </p>
 
----
 
-### 📦 核心开源项目
-
-<div align="center">
-  <!-- 注意：vercel.app 在国内直连通常会裂图，但发布到 GitHub 后会由 GitHub 官方代为加载，完美显示 -->
-  <a href="https://github.com/cmontage/scoop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmontage&repo=scoop&theme=tokyonight&show_owner=true" width="48%" alt="scoop" />
-  </a>
-  <a href="https://github.com/cmontage/scoopbucket-soup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmontage&repo=scoopbucket-soup&theme=tokyonight&show_owner=true" width="48%" alt="scoopbucket-soup" />
-  </a>
-  <br/>
-  <a href="https://github.com/cmontage/proxyrules-cm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmontage&repo=proxyrules-cm&theme=tokyonight&show_owner=true" width="48%" alt="proxyrules-cm" />
-  </a>
-  <a href="https://github.com/cmontage/mas-cn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmontage&repo=mas-cn&theme=tokyonight&show_owner=true" width="48%" alt="mas-cn" />
-  </a>
-</div>
-
----
 
 ### 📊 社区贡献
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmontage&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmontage&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Langs" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmontage&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmontage&theme=radium" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
