@@ -37,10 +37,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmontage&theme=radium" alt="GitHub Streak" width="48%" />
 </div>
 
----
-
-### 🐍 GitHub 活动
-
 <div align="center">
   <!-- 注意：贪吃蛇动画需要您在仓库配置 GitHub Actions，详情请见说明 -->
   <picture>
