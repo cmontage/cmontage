@@ -9,27 +9,27 @@
 </div>
 
 
-### 👨‍💻 关于我
+### 👨 关于我
 
 - ⚡ Windows & Archlinux 用户
 - 🔭 正在专注 **Windows 包管理器 (Scoop 生态)** 的维护
-- ☁️ 喜欢搭建 Homelab，折腾 NAS 和 OpenWrt（如 RAX3000M / AX1800 Pro 等硬路由）的底层配置
-- 🌱 离开屏幕的时候，我可能在户外重装徒步、听着方大同的歌，或者在《燕云十六声》的武侠世界里遨游
+- ☁️ 喜欢搭建 Homelab，折腾 NAS
+- 🌱 不写代码的时候，我可能在户外徒步、听着方大同的歌，或者在《燕云十六声》的武侠世界里遨游
 
 ---
 
-### 🛠️ 开发语言与技能
+### 🛠️ 语言与工具
 
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- 使用精美的玻璃拟态图标 -->
-    <img src="https://skillicons.dev/icons?i=powershell,python,go,bash,githubactions,git,windows,md" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=powershell,python,go,java,vue,react,mysql,mongodb,js,ts,docker,arch,vscode,postman,obsidian" alt="Skills" />
   </a>
 </p>
 
 
 
-### 📊 社区贡献
+### 📊 Github 统计
 
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmontage&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
