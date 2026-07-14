@@ -9,19 +9,20 @@
 </div>
 
 
-### 👨 关于我
+### 👨 About me
 
 <img align="right" src="assets/coding-big-brain.gif" width="180" alt="Coding Big Brain" />
 
-- ⚡ Windows & Archlinux 用户
-- 🔭 正在专注 **Windows 包管理器 (Scoop 生态)** 的维护
-- ☁️ 喜欢搭建 Homelab，折腾 NAS
-- 🌱 不写代码的时候，我可能在听着方大同的歌、在户外徒步。
+- 💻 Windows & ArchLinux users (BTW...You know it. XD).
+- ⚡ Fullstack developer. Currently learning various development technology stacks.
+- 🔭 Currently focused on maintaining the **Windows Package Manager (Scoop ecosystem)**.
+- ☁️ Enjoys setting up homelabs and tinkering with NAS systems.
+- 🌱 When I’m not writing code, I might be listening to Khalil Fong’s songs or hiking outdoors.
 
 <br clear="both">
 
 
-### 🛠️ 语言与工具
+### 🛠️ Languages ​​and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +33,7 @@
 
 
 
-### 📊 Github 统计
+### 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmontage&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
