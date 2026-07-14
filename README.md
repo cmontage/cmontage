@@ -36,8 +36,16 @@
 ### 🚩 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmontage&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmontage&theme=radium" alt="GitHub Streak" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmontage&show_icons=true&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmontage&show_icons=true&theme=radium">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmontage&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=cmontage&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=cmontage&theme=radium">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmontage&theme=radium" alt="GitHub Streak" width="48%" />
+  </picture>
 </div>
 
 <div align="center">
