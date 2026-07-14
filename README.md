@@ -11,7 +11,7 @@
 
 ### 💫 About me
 
-<img align="right" src="assets/coding-big-brain.gif" width="180" alt="Coding Big Brain" />
+<img align="right" src="https://gcore.jsdelivr.net/gh/cmontage/cmontage@main/assets/coding-big-brain.gif" width="180" alt="Coding Big Brain" />
 
 - 💻 Windows & ArchLinux users (BTW...You know it. XD).
 - ⚡ Fullstack developer. Currently learning various development technology stacks.
