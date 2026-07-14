@@ -11,12 +11,14 @@
 
 ### 👨 关于我
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180" alt="Developer Coding GIF" />
+<img align="right" src="assets/coding-big-brain.gif" width="180" alt="Coding Big Brain" />
 
 - ⚡ Windows & Archlinux 用户
 - 🔭 正在专注 **Windows 包管理器 (Scoop 生态)** 的维护
 - ☁️ 喜欢搭建 Homelab，折腾 NAS
-- 🌱 不写代码的时候，我可能在户外徒步、听着方大同的歌，或者在《燕云十六声》的武侠世界里遨游
+- 🌱 不写代码的时候，我可能在听着方大同的歌、在户外徒步。
+
+<br clear="both">
 
 ---
 
