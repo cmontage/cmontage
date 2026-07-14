@@ -4,7 +4,7 @@
 
 # 💫 Hello! I'm cmontage
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Windows+Automation+Enthusiast;Scoop+Package+Maintainer;Proxy+Rules+Editor;Just+a+nobody." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Windows+Automation+Enthusiast;Scoop+Package+Maintainer;Just+a+nobody." alt="Typing SVG" />
 
 </div>
 
