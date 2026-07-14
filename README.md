@@ -2,7 +2,7 @@
 
 
 
-# 💫 Hello, World! I'm cmontage
+# 💫 Hello! I'm cmontage
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Windows+Automation+Enthusiast;Scoop+Package+Maintainer;Proxy+Rules+Editor;Just+a+nobody." alt="Typing SVG" />
 
@@ -12,10 +12,10 @@
 
 ### 👨‍💻 关于我
 
-- 🔭 目前正在专注 **Windows 包管理器 (Scoop 生态)** 的维护。
-- ☁️ 喜欢搭建 Homelab，正在折腾 NAS 和 OpenWrt（如 RAX3000M / AX1800 Pro 等硬路由）的底层配置
 - ⚡ Windows & Archlinux 用户
-- 🌱 离开屏幕的时候，我可能在户外重装徒步、听着方大同的歌，或者在《燕云十六声》的武侠世界里游荡
+- 🔭 正在专注 **Windows 包管理器 (Scoop 生态)** 的维护
+- ☁️ 喜欢搭建 Homelab，折腾 NAS 和 OpenWrt（如 RAX3000M / AX1800 Pro 等硬路由）的底层配置
+- 🌱 离开屏幕的时候，我可能在户外重装徒步、听着方大同的歌，或者在《燕云十六声》的武侠世界里遨游
 
 ---
 
