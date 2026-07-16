@@ -13,7 +13,7 @@
 
 <img align="right" src="https://gcore.jsdelivr.net/gh/cmontage/cmontage@main/assets/coding-big-brain.gif" width="180" alt="Coding Big Brain" />
 
-- 💻 Windows & ArchLinux users (BTW...You know it. XD).
+- 💻 Windows and ArchLinux user.
 - ⚡ Fullstack developer. Currently learning various development technology stacks.
 - 🔭 Currently focused on maintaining the **Windows Package Manager (Scoop ecosystem)**.
 - ☁️ Enjoys setting up homelabs and tinkering with NAS systems.
