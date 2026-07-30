@@ -42,17 +42,17 @@
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmontage&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmontage/cmontage/streak-stats/streak-stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmontage/cmontage/streak-stats/streak-stats-light.svg">
-    <img src="https://raw.githubusercontent.com/cmontage/cmontage/streak-stats/streak-stats-light.svg" alt="GitHub Streak" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://gcore.jsdelivr.net/gh/cmontage/cmontage@streak-stats/streak-stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://gcore.jsdelivr.net/gh/cmontage/cmontage@streak-stats/streak-stats-light.svg">
+    <img src="https://gcore.jsdelivr.net/gh/cmontage/cmontage@streak-stats/streak-stats-light.svg" alt="GitHub Streak" width="48%" />
   </picture>
 </div>
 
 <div align="center">
   <!-- 注意：贪吃蛇动画需要您在仓库配置 GitHub Actions，详情请见说明 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmontage/cmontage/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmontage/cmontage/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cmontage/cmontage/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://gcore.jsdelivr.net/gh/cmontage/cmontage@output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://gcore.jsdelivr.net/gh/cmontage/cmontage@output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://gcore.jsdelivr.net/gh/cmontage/cmontage@output/github-contribution-grid-snake.svg">
   </picture>
 </div>
