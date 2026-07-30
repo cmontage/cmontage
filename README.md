@@ -42,9 +42,9 @@
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmontage&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=cmontage&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=cmontage&theme=radium">
-    <img src="https://streak-stats.demolab.com/?user=cmontage&theme=radium" alt="GitHub Streak" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmontage/cmontage/streak-stats/streak-stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmontage/cmontage/streak-stats/streak-stats-light.svg">
+    <img src="https://raw.githubusercontent.com/cmontage/cmontage/streak-stats/streak-stats-light.svg" alt="GitHub Streak" width="48%" />
   </picture>
 </div>
 

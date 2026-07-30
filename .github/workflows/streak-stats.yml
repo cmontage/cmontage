@@ -1,0 +1,37 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天午夜运行一次
+  workflow_dispatch: # 允许手动点击运行
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate streak-stats-dark.svg
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          path: dist/streak-stats-dark.svg
+          options: user=cmontage&theme=dark
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate streak-stats-light.svg
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          path: dist/streak-stats-light.svg
+          options: user=cmontage&theme=radium
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: push streak-stats to the streak-stats branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: streak-stats
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
